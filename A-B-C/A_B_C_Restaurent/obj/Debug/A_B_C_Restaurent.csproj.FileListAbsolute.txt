@@ -1,0 +1,87 @@
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+c:\users\talha mughal\documents\visual studio 2012\Projects\A_B_C_Restaurent\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+E:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+E:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+E:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmAdmin.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmMain.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmProducts.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReports.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmSales.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+E:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+G:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+G:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+G:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmAdmin.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmMain.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmProducts.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReports.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmSales.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmAdmin.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmMain.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmProducts.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReports.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmSales.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Resource1.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Resource1.resources
+G:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReciepts.resources
+D:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+D:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+D:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmAdmin.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmMain.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmProducts.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReciepts.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReports.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmSales.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Resource1.resources
+D:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+I:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe.config
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.exe
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.pdb
+I:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.exe
+I:\A-B-C\A_B_C_Restaurent\bin\Debug\A_B_C_Restaurent.pdb
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csprojResolveAssemblyReference.cache
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmAdmin.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmLogIn.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmMain.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmProducts.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReciepts.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReports.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmSales.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Properties.Resources.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.Resource1.resources
+I:\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.csproj.GenerateResource.Cache
+D:\A-B-C Restaurent\A-B-C\A_B_C_Restaurent\obj\Debug\A_B_C_Restaurent.frmReciepts.resources
